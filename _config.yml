@@ -1,8 +1,23 @@
-layout_spectrum: 0.04255319
-color:
-  saturation: 0.2
-  lightness: 0.2255319
-  brandStrength: 0.2170213
-  rhythmicContrast: 0.2680851
-typography_spectrum: 0.4230341
 name: 99website
+favicon: null
+layout_spectrum: 0.04255319
+typography_spectrum: 0.4230341
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2170213
+  lightness: 0.2255319
+  saturation: 0.2
+  rhythmicContrast: 0.2680851
+purpose: []
