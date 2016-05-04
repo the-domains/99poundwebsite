@@ -1,0 +1,14 @@
+layout_spectrum: 0.04255319
+color:
+  saturation: 0.2
+  lightness: 0.2255319
+  brandStrength: 0.2170213
+  rhythmicContrast: 0.2680851
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+typography_spectrum: 0.4230341
+name: 99poundwebsite
