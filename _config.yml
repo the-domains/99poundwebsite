@@ -1,7 +1,7 @@
 name: 99website
 favicon: null
-layout_spectrum: 0.04255319
-typography_spectrum: 0.4230341
+layout_spectrum: 0
+typography_spectrum: 0.26488
 cta:
   domain: null
   bucket: null
